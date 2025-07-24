@@ -77,7 +77,7 @@
        &none          &none             &kp LEFT_BRACE        &kp RIGHT_BRACE        &none    &kp FSLH       &kp AMPERSAND  &kp EXCL     &kp CARET  &kp DOLLAR
        &kp LESS_THAN  &kp GREATER_THAN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none    &kp BACKSLASH  &kp AT_SIGN    &kp HASH     &kp GRAVE  &kp LS(INTERNATIONAL_3)
 &none  &none          &none             &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &none    &kp TILDE      &kp UNDER      &kp PERCENT  &kp PIPE   &kp LC(LA(INTERNATIONAL_4))  &none
-                                        &none                 &none                  &none    &none          &none          &none
+                                        &none                 &none                  &none    &none          &kp BACKSPACE  &none
             >;
         };
 
